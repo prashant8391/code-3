@@ -1,6 +1,6 @@
 # code-3
-Middle of linked list
-#Class node is defined
+# Middle of linked list
+# Class node is defined
 
 class node:
 
